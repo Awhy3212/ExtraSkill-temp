@@ -1,5 +1,7 @@
-# Extraskill Temp ( SOURCE CODE ) 
-``made by ! 0Xploit``
+# Extraskill Temp (Source Code)
+
+**Author:** ! 0Xploit  
+**GitHub:** https://github.com/0xploitwtf
 
 A C++ utility interface providing temporary system spoofing, tracing/cleaning, and hardware serial checking capabilities.
 
